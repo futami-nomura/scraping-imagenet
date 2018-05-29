@@ -21,7 +21,7 @@ def write(path, img):
 
 # see http://image-net.org/archive/words.txt
 classes = {"common sunflower, mirasol, Helianthus annuus":"n11978713", "apple":"n07739125"}
-
+# 画像の枚数を設定
 offset = 0
 max = 10
 for dir, id in classes.items():
