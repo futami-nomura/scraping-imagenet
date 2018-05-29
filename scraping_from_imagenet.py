@@ -20,7 +20,7 @@ def write(path, img):
     file.close()
 
 # see http://image-net.org/archive/words.txt
-classes = {"common sunflower, mirasol, Helianthus annuus":"n11978713", "cloverleaf":"n03053163"}
+classes = {"common sunflower, mirasol, Helianthus annuus":"n11978713", "apple":"n07739125"}
 
 offset = 0
 max = 10
